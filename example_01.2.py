@@ -1,6 +1,7 @@
 import threading
-import requests
 import time
+
+import requests
 
 urls = ["http://example.com", "http://google.com", "http://python.org"]
 

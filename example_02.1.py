@@ -2,6 +2,7 @@ import multiprocessing
 import time
 from random import randint
 
+
 def process_chunk(data_chunk):
     # Імітація обробки даних
     seconds = randint(1, 5)
